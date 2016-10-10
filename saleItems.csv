@@ -1,0 +1,10 @@
+Item,product,department name,price,quantitiy
+1001,size1water color paint brush,paint,$3.00,25
+1002,size 2 water color paint brush,paint,$3.00,25
+1003,size3 water color paint brush,paint,$3.00,25
+1010,red tube water color paint,paint,$4.00,30
+1011,blue tube water color paint,paint,$4.00,30
+1012,yellow tube water color paint,paint,$4.00,30
+1013,water color set,paint,$30.00,10
+1020,HB Pencil,drawing,$2.00,20
+1029,Pencil set,drawing,$15.00,15
